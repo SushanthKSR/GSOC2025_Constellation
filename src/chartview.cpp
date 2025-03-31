@@ -14,8 +14,6 @@
  * - startSortAnimation(): Resets the sorting state and starts the animation timer.
  * - sortStep(): Performs one iteration of the sorting logic and updates the chart.
  * 
- * This setup provides a visual to demonstrate how sorting
- * algorithms work in real time.
  */
 
 #include "chartview.h"
